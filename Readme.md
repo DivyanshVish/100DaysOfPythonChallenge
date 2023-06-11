@@ -11,3 +11,8 @@
 
 - [✅] Revised More Python Concepts
 - [✅] Completed the next 2 Sections of the Course (Section 4 to 5)
+
+## [Day 3: 11/06/2023]
+
+- [✅] Revised About If-Else and Functions
+- [✅] Completed Section 6 of the Course
