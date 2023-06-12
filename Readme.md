@@ -16,3 +16,8 @@
 
 - [✅] Revised About If-Else and Functions
 - [✅] Completed Section 6 of the Course
+
+## [Day 4: 12/06/2023]
+
+- [✅] Revised About If-Else and Functions
+- [✅] Completed Section 6 of the Course
